@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [sample test suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="locator(failed)">
+    <classes>
+      <class name="MavenSeleniumGA.Leave">
+        <methods>
+          <include name="leavemethod"/>
+        </methods>
+      </class> <!-- MavenSeleniumGA.Leave -->
+    </classes>
+  </test> <!-- locator(failed) -->
+</suite> <!-- Failed suite [sample test suite] -->

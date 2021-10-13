@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="SampleSuite2" duration-ms="73829" started-at="2021-10-13T16:33:08 IST" finished-at="2021-10-13T16:34:22 IST">
+    <groups>
+    </groups>
+    <test name="SampleTest" duration-ms="46659" started-at="2021-10-13T16:33:08 IST" finished-at="2021-10-13T16:33:55 IST">
+      <class name="com.selenium.project.waittest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.selenium.project.waittest@4d68b571]" name="setUp" is-config="true" duration-ms="10014" started-at="2021-10-13T16:33:08 IST" finished-at="2021-10-13T16:33:18 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testUntitled()[pri:0, instance:com.selenium.project.waittest@4d68b571]" name="testUntitled" duration-ms="34377" started-at="2021-10-13T16:33:18 IST" finished-at="2021-10-13T16:33:53 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUntitled -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.selenium.project.waittest@4d68b571]" name="tearDown" is-config="true" duration-ms="2206" started-at="2021-10-13T16:33:53 IST" finished-at="2021-10-13T16:33:55 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.selenium.project.waittest -->
+    </test> <!-- SampleTest -->
+    <test name="Sample2Test" duration-ms="27135" started-at="2021-10-13T16:33:55 IST" finished-at="2021-10-13T16:34:22 IST">
+      <class name="com.individual.activity.SauceDemo">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.individual.activity.SauceDemo@58015e56]" name="setup" is-config="true" duration-ms="2820" started-at="2021-10-13T16:33:55 IST" finished-at="2021-10-13T16:33:58 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="sauceDemo()[pri:0, instance:com.individual.activity.SauceDemo@58015e56]" name="sauceDemo" duration-ms="22901" started-at="2021-10-13T16:33:58 IST" finished-at="2021-10-13T16:34:21 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sauceDemo -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.individual.activity.SauceDemo@58015e56]" name="tearDown" is-config="true" duration-ms="1412" started-at="2021-10-13T16:34:21 IST" finished-at="2021-10-13T16:34:22 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.individual.activity.SauceDemo -->
+    </test> <!-- Sample2Test -->
+  </suite> <!-- SampleSuite2 -->
+</testng-results>
